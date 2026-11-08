@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/charmcraftcache/commit/b9e5fce8b77eac4e418290ad03ae8366fba10b14",
       "git:hexsha": "b9e5fce8b77eac4e418290ad03ae8366fba10b14",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.8.5"
     },
     {
