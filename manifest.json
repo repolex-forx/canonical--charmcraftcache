@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "charmcraftcache",
+  "versions": [
+    {
+      "commit": "b9e5fce8b77eac4e418290ad03ae8366fba10b14",
+      "parsed_at": "2026-11-08T12:23:37.085431+00:00",
+      "tag": "v0.8.5",
+      "filetree": "filetree/b9e5fce8b77eac4e418290ad03ae8366fba10b14.nq.gz",
+      "blobs": [
+        "blob/49ec4dd96dfda524eed8610067870d11c4057cb9.nq.gz",
+        "blob/34f7c6c9f9e9c7fe9ea897e988666e8d45e81df4.nq.gz",
+        "blob/cbc59a6c1827f87d71633e925b087b91d55e2d20.nq.gz",
+        "blob/932a17f417345772f2e66a69cd420cd087c0e501.nq.gz",
+        "blob/4be332471769dd5ab7e31af98ca34c175de2c814.nq.gz",
+        "blob/57a7dd98e6628a569aff9b28052eac3619238551.nq.gz",
+        "blob/7221c077f08e5a16b4cde29b27128e7149c70fb0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6b1c7c51ba4d1a4a4a2aad74decdfb8e3a2ccf3c.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/717688050a21c636d0ac315bd23218ce777c4686.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
