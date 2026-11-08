@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "charmcraftcache",
+  "versions": [
+    {
+      "commit": "b9e5fce8b77eac4e418290ad03ae8366fba10b14",
+      "tag": "v0.8.5",
+      "parsed_at": "2026-11-08T12:25:38.994118+00:00"
+    }
+  ]
+}
